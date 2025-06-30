@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Jun  1 15:21:06 2025
+Created in 2025
 
-@author: quant
+@author: Quant Galore
 """
 
 import pandas as pd
