@@ -2,6 +2,9 @@
 
 This repository contains a strategy that sorts stocks by realized volatility and returns the top-N candidates to short over the next day. It includes infrastructure for both backtesting and daily production use.
 
+Original Source - [A Junior Quant's Guide to Chasing Vol and Shorting Stocks](https://quantgalore.substack.com/p/a-junior-quants-guide-to-chasing)
+
+
 ## Setup Instructions
 
 1. Run `pit-stocks.py`  
